@@ -1,15 +1,15 @@
 Hi 👋 My name is Adora Godson
 =============================
 
-A web developer
+A Blockchain developer and a web developer
 ---------------
 
 I'm a web3 enthusiast I love coding!!!!
 
-* 🌍  I'm based in Anambra, Nigeria.
+* 🌍  I'm based in Africa.
 * ✉️  You can contact me at [doradaniel53@gmail.com](mailto:doradaniel53@gmail.com)
 * 🧠  I'm learning JS, Python
-* 🤝  I'm open to collaborating on Other web3 related projects and a web designs
+* 🤝  I'm open to collaborating on Blockchain developments, web3 related projects and a web designs
 * ⚡  I'm secretly a ninja😂
 
 <a href="https://www.github.com/Beloved023" target="_blank" rel="noreferrer"><img
